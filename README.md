@@ -43,6 +43,7 @@ n = number of predefined words
 m = number of words in the input file
 
 Space: O(n) [store predefined words]
+
 Time: O(n + m) + O(nlogn) => O(nlogn) [time taken to sort the words in descending order]
 
 ### Improvements
